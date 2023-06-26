@@ -2,4 +2,4 @@
 
 Datasetlinks:
 
-https://raw.githubusercontent.com/ mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
